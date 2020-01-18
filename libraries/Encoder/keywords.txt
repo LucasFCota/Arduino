@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map Motor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Encoder			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+encoderBegin		KEYWORD2
+tempoD			KEYWORD2
+pulsosD			KEYWORD2
+pulsosE			KEYWORD2
+tempoE			KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################

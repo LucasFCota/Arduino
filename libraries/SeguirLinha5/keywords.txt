@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map SeguirLinha5
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+SeguirLinha5	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+infraVBegin	KEYWORD2
+lerLinha	KEYWORD2
+seguirLeitura	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

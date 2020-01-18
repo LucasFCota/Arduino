@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map Motor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Motor				KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+motorBegin			KEYWORD2
+motorDireitaHorario		KEYWORD2
+motorDireitaAntiHorario		KEYWORD2
+motorDireitaParar		KEYWORD2
+motorEsquerdaHorario		KEYWORD2
+motorEsquerdaAntiHorario	KEYWORD2
+motorEsquerdaParar		KEYWORD2
+parar				KEYWORD2
+frente				KEYWORD2
+tras				KEYWORD2
+direita				KEYWORD2
+esquerda			KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
